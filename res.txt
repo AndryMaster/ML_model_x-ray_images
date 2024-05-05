@@ -1,0 +1,19 @@
+SimpleCNN
+acc train=92 test_kaggle=90.5
+params = 300k  augmentation=None
+
+ResNetV2
+acc train=92 test_kaggle=?
+params = 2.5M  augmentation=(-0.5% accuracy)
+
+ResNetV3
+acc train=92 test_kaggle=89
+params = 700k  augmentation=(+- accuracy)
+
+SqeezeNet 1.1
+acc train=94 test=93.5 test_kaggle=91
+params = 700k  augmentation=(+ 1-2 % accuracy)
+
+SqeezeNeXt
+acc train=94 test=93.5 test_kaggle= 91....92.5
+params = 700k-2.5M  augmentation=+++ (v2)
