@@ -1,0 +1,13 @@
+1
+Model test MSE: 0.0135
+Model test MAE: 0.0289
+Model test Precision: 0.0000
+Model test Recall: 0.0000
+Model test F1 score: 0.0000
+
+2:
+Model test MSE: 0.2653
+Model test MAE: 0.2653
+Model test Precision: 0.0362
+Model test Recall: 0.6889
+Model test F1 score: 0.0687
